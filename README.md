@@ -14,3 +14,6 @@ Grupa studencka: WEL18DE1S1
 
 # Odpowiedzi do pytań z instrukcji
 ...
+3.2.6 pytanie: w kilku zdaniach wyjaśnić jego zasadę działania, uzasadnić konieczność zastosowania
+tranzystora oraz możliwość udoskonalenia.
+odpowiedź: Zastosowanie tranzystora jest konieczne, ponieważ służy on w tym przypadku do wysterowania silnika.
